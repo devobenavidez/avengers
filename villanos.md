@@ -2,4 +2,3 @@
 
 - Dr. Doom
 - RedSukll
-- Capitán America
